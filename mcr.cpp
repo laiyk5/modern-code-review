@@ -1,7 +1,7 @@
 #include <iostream> 
 
 using namespace std;
-
+// This is written by laiyikai 20250908
 bool isWin(char game[3][3]){
 	bool win = false;
 	// row
